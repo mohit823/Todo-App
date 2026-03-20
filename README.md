@@ -19,6 +19,9 @@ A simple and modern To-Do List web app built using HTML, CSS, and JavaScript.
 ├── style.css
 └── script.js
 ```
+## 🌐 Live Demo
+https://mohit823.github.io/Todo-App/
+
 
 
 ## 💻 How to Run Locally
